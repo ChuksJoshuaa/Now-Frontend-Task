@@ -1,12 +1,12 @@
 # TASK
 
-##Homepage
+## Homepage
 <img src="https://res.cloudinary.com/chuksmbanaso/image/upload/v1652299026/media/Screenshot_81_eoanyp.png" title="Test" alt="Test">
 
-##Login page
+## Login page
 <img src="https://res.cloudinary.com/chuksmbanaso/image/upload/v1652299045/media/Screenshot_85_m6zqqo.png" title="Test" alt="Test">
 
-##Sign up page
+## Sign up page
 <img src="https://res.cloudinary.com/chuksmbanaso/image/upload/v1652299051/media/Screenshot_89_fbgfo5.png" title="Test" alt="Test">
 
 ## Available Scripts
