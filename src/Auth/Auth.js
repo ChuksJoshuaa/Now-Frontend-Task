@@ -73,9 +73,16 @@ const Auth = ({ setShowLogin }) => {
                 />
               </>
             )}
-            <Typography variant="h5" className={classes.word}>
-              Password
-            </Typography>
+           {isSignup ? (
+              <Typography variant="h5" className={classes.word}>
+                Password
+              </Typography>
+            ) : (
+              <Typography variant="h5" className={classes.word}>
+                Password
+                <span className={classes.wording}>Forget password?</span>
+              </Typography>
+            )}
             <Input
               name="password"
               label={
