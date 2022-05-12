@@ -52,7 +52,7 @@ const Home = () => {
               <img src={image1} alt="icon" />
               <div className="sasuke-body">
                 <span>Theresa Wobb</span>
-                <span class="no">5mins ago</span>
+                <span>5mins ago</span>
               </div>
             </div>
             <div style={{ color: "#b7bfc9" }}>
@@ -90,7 +90,7 @@ const Home = () => {
               <img src={image2} alt="icon" />
               <div className="sasuke-body">
                 <span>Marvin McKinney</span>
-                <span class="no">8mins ago. Edited</span>
+                <span>8mins ago. Edited</span>
               </div>
             </div>
             <div>
