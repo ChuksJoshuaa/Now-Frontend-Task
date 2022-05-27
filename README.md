@@ -1,7 +1,7 @@
 # TASK
 
 ## Homepage
-<img src="https://res.cloudinary.com/chuksmbanaso/image/upload/v1652299026/media/Screenshot_81_eoanyp.png" title="Test" alt="Test">
+<img src="https://res.cloudinary.com/chuksmbanaso/image/upload/v1652299026/media/Screenshot_81_eoanyp.png" title="Test" alt="Test">.
 
 ## Login page
 <img src="https://res.cloudinary.com/chuksmbanaso/image/upload/v1652339867/media/Screenshot_88_vcqscv.png" title="Test" alt="Test">
